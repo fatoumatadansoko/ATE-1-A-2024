@@ -89,14 +89,24 @@ header .submenu a {
 }
 
 .Bannier .block1 {
-
-
   left: 0;
+  font-size: larger;
   top: 0;
-  margin: 10rem 11rem;
+  margin: 8rem 11rem;
   padding: 16rem 11rem ;
+  color: white;
   
 }
+
+.Bannier .block1 h1{
+  left: 0;
+  font-size: 4rem;
+  top: 0;
+  color: white;
+  margin-bottom:-1em;
+  
+}
+
 
 .Bannier .block1 h2 {
 
@@ -141,6 +151,7 @@ header .submenu a {
     display: block;
     align-items: center;
     justify-content: center ;
+    
  
  
   }
@@ -158,11 +169,11 @@ header .submenu a {
  
   }
    .histoire .class-histoire {
-    width: 90%;
     margin-left: 5rem;
     padding: 20rem 10rem;
     margin-top: 12vh;
     display: flex;
+
   }
    .histoire .class-histoire .app {
     width: 30rem;
@@ -455,6 +466,8 @@ left: 45%;
     top: 1vh;
 
    }
+   /*fin banniere*/
+   
   
   
   
