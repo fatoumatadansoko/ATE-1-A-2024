@@ -690,22 +690,33 @@ padding: 18px 6px;
   }
   
   
-  /***/
+  /***/ 
+  .apprenants {
+  width: 90%;
+  margin-right: -23vh;
+  padding: 0;
+
+
+  }
   .apprenants p {
     font-size: 20px;
     display: flex;
+
   }
+ 
   
   .apprenants .class-apprenants {
-    width: 90%;
-    margin-left: 5rem;
-    padding: 12rem 10rem;
-    margin-top: 8rem;
+    margin-left: 1rem;
+    padding: 4rem 12rem;
+    margin-top: 1rem;
     display: flex;
+    margin-right: -2vh;
+
   }
   
   .apprenants .class-apprenants .app {
     width: 34rem;
+
   
   }
   
@@ -714,11 +725,11 @@ padding: 18px 6px;
     display: block;
     border-radius: 12px;
     border: #acacac3a solid 1px;
-  
+
   }
   
   .apprenants .block5 .bg-img {
-    width: 37rem;
+    width: 7rem;
     background-image: url("../img/27.png");
     background-size: cover;
     background-position: center;
@@ -727,10 +738,11 @@ padding: 18px 6px;
     height: 18rem;
     display: block;
     border-bottom: red solid 12px;
+    
   }
   
   .apprenants .block5 .bg-img span {
-    width: 37rem;
+    width: 7rem;
   color: #efefef;
   
     padding: 1rem  0;
@@ -740,6 +752,7 @@ padding: 18px 6px;
     border-bottom-right-radius:  12px;
     background-color: #b11d3a;
     width: 12vh;
+    
   }
   
   .apprenants .class-apprenants h2 {
@@ -773,18 +786,7 @@ padding: 18px 6px;
     border-bottom: red solid 12px;
   }
   
-  .apprenants .block5 .bg-img span {
-    width: 37rem;
-  color: #efefef;
-  
-    padding: 1rem  0;
-    height: 1rem;
-    display: block;
-    border-top-right-radius:  12px;
-    border-bottom-right-radius:  12px;
-    background-color: #b11d3a;
-    width: 12vh;
-  }
+
   
   .apprenants .class-apprenants h2 {
     display: flex;
@@ -796,6 +798,7 @@ padding: 18px 6px;
     display: flex;
   }
   /**/
+
   
   .apprenants .block5 {
     background: #e9e9e9;
@@ -806,13 +809,11 @@ padding: 18px 6px;
    }
    
    .apprenants .block5 .bg-img {
-     width: 37rem;
      background-image: url("../img/27.png");
      background-size: cover;
      background-position: center;
      background-repeat: no-repeat;
      padding: 4rem  0;
-     height: 18rem;
      display: block;
      border-bottom: red solid 12px;
    }
@@ -854,7 +855,6 @@ padding: 18px 6px;
   
   /**/
   .apprenants .block6 {
-    width: 70%;
   
     margin-left: 15rem;
     padding: 1rem;
